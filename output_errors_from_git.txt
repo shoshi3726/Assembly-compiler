@@ -1,0 +1,189 @@
+Hello. Welcome to our assembler.
+Assembler start processing with file errorsFromGit
+In line: 5	Error. Illegal labal name.
+In line: 6	Error. Illegal labal name.
+In line: 7	Error. Illegal labal name.
+In line: 8	Error. Illegal labal name.
+In line: 12	Error. Extraneous comma.
+In line: 13	Error. Extraneous comma.
+In line: 14	Error. Extraneous comma.
+In line: 15	Error. Extraneous comma.
+In line: 16	Error. Extraneous comma.
+In line: 17	Error. There is no such command
+In line: 18	Error. Illegal opernd.
+In line: 19	Error. Illegal opernd.
+In line: 20	Error. Illegal opernd.
+In line: 21	Error. Illegal opernd.
+In line: 22	Error. Excepted only one argument.
+In line: 23	Error. There is no such command
+In line: 27	Error. Line is longer then the max length of line.
+In line: 28	Error. Line is longer then the max length of line.
+In line: 31	Error. Missing numbers.
+In line: 32	Error. Excepted only numbers.
+In line: 33	Error. Excepted only numbers.
+In line: 34	Error. Excepted only numbers.
+In line: 37	Error. Excepted only numbers.
+In line: 38	Error. Excepted only numbers.
+In line: 39	Error. Excepted only integers.
+In line: 43	Error. Excepted string.
+In line: 44	Error. Illegal string.
+In line: 45	Error. Illegal string.
+In line: 46	Error. Illegal string.
+In line: 47	Error. Illegal string.
+In line: 48	Error. Illegal string.
+In line: 49	Error. Illegal string.
+In line: 52	Error. Illegal string.
+In line: 53	Error. There is more arguments after the lable name.
+In line: 55	Error. Too many arguments.
+In line: 56	Error. Invalid name of argument.
+In line: 57	Error. Too many arguments.
+In line: 58	Error. Invalid name of argument.
+In line: 59	Error. Too many arguments.
+In line: 60	Error. Invalid name of argument.
+In line: 61	Error. Too many arguments.
+In line: 62	Error. Invalid name of argument.
+In line: 63	Error. Too many arguments.
+In line: 64	Error. Invalid name of argument.
+In line: 65	Error. Excepted only one argument.
+In line: 66	Error. Illegal opernd.
+In line: 67	Error. Excepted only one argument.
+In line: 68	Error. Illegal opernd.
+In line: 69	Error. Excepted only one argument.
+In line: 70	Error. Illegal opernd.
+In line: 71	Error. Excepted only one argument.
+In line: 72	Error. Illegal opernd.
+In line: 73	Error. Excepted only one argument.
+In line: 74	Error. Illegal opernd.
+In line: 75	Error. Excepted only one argument.
+In line: 76	Error. Illegal opernd.
+In line: 77	Error. There is no such command
+In line: 78	Error. There is no such command
+In line: 79	Error. Excepted only one argument.
+In line: 80	Error. Illegal opernd.
+In line: 81	Error. Excepted space after lable's decleration.
+In line: 82	Error. Excepted space after lable's decleration.
+In line: 83	Error. Excepted space after lable's decleration.
+In line: 84	Error. Excepted space after lable's decleration.
+In line: 85	Error. Excepted space after lable's decleration.
+In line: 86	Error. Excepted space after lable's decleration.
+In line: 87	Error. Excepted space after lable's decleration.
+In line: 88	Error. Excepted space after lable's decleration.
+In line: 89	Error. Excepted space after lable's decleration.
+In line: 90	Error. Excepted space after lable's decleration.
+In line: 91	Error. Excepted space after lable's decleration.
+In line: 92	Error. Excepted space after lable's decleration.
+In line: 93	Error. Excepted space after lable's decleration.
+In line: 94	Error. Excepted space after lable's decleration.
+In line: 95	Error. Excepted space after lable's decleration.
+In line: 96	Error. Excepted space after lable's decleration.
+In line: 97	Error. Excepted space after lable's decleration.
+In line: 98	Error. Excepted space after lable's decleration.
+In line: 99	Error. Excepted space after lable's decleration.
+In line: 100	Error. Excepted space after lable's decleration.
+In line: 101	Error. Excepted space after lable's decleration.
+In line: 102	Error. Excepted space after lable's decleration.
+In line: 103	Error. Excepted space after lable's decleration.
+In line: 104	Error. Excepted space after lable's decleration.
+In line: 105	Error. Excepted space after lable's decleration.
+In line: 106	Error. Excepted space after lable's decleration.
+In line: 107	Error. Excepted space after lable's decleration.
+In line: 108	Error. Excepted space after lable's decleration.
+In line: 109	Error. Excepted space after lable's decleration.
+In line: 110	Error. Excepted space after lable's decleration.
+In line: 112	Error. Missing numbers.
+In line: 113	Error. Excepted string.
+In line: 114	Error. Missing lable after extern.
+In line: 115	Error. Missing lable after entry.
+In line: 116	Error. Missing argument.
+In line: 117	Error. Missing argument.
+In line: 118	Error. Missing argument.
+In line: 119	Error. Missing argument.
+In line: 120	Error. Missing argument.
+In line: 121	Error. Excepted arguments.
+In line: 122	Error. Excepted arguments.
+In line: 123	Error. Excepted arguments.
+In line: 124	Error. Excepted arguments.
+In line: 125	Error. Excepted arguments.
+In line: 126	Error. Excepted arguments.
+In line: 127	Error. There is no such command
+In line: 128	Error. Excepted arguments.
+In line: 129	Error. Excepted space after lable's decleration.
+In line: 130	Error. Excepted space after lable's decleration.
+In line: 131	Error. Excepted space after lable's decleration.
+In line: 131	Error. Missing lable after extern.
+In line: 132	Error. Excepted space after lable's decleration.
+In line: 132	Error. Missing lable after entry.
+In line: 133	Error. Excepted space after lable's decleration.
+In line: 134	Error. Excepted space after lable's decleration.
+In line: 135	Error. Excepted space after lable's decleration.
+In line: 136	Error. Excepted space after lable's decleration.
+In line: 137	Error. Excepted space after lable's decleration.
+In line: 138	Error. Excepted space after lable's decleration.
+In line: 139	Error. Excepted space after lable's decleration.
+In line: 140	Error. Excepted space after lable's decleration.
+In line: 141	Error. Excepted space after lable's decleration.
+In line: 142	Error. Excepted space after lable's decleration.
+In line: 143	Error. Excepted space after lable's decleration.
+In line: 144	Error. Excepted space after lable's decleration.
+In line: 145	Error. Excepted space after lable's decleration.
+In line: 147	Error. There is no such command
+In line: 148	Error. There is no such command
+In line: 149	Error. There is no such command
+In line: 151	Error. Illegal opernd.
+In line: 152	Error. Illegal opernd.
+In line: 153	Error. Illegal opernd.
+In line: 154	Error. Illegal opernd.
+In line: 155	Error. Wrong operand to function.
+In line: 156	Error. Illegal opernd.
+In line: 157	Error. Illegal opernd.
+In line: 158	Error. Wrong operand to function.
+In line: 159	Error. Illegal opernd.
+In line: 160	Error. Illegal opernd.
+In line: 161	Error. Illegal opernd.
+In line: 162	Error. Wrong operand to function.
+In line: 163	Error. Illegal opernd.
+In line: 164	Error. Illegal opernd.
+In line: 165	Error. Illegal opernd.
+In line: 166	Error. Illegal opernd.
+In line: 167	Error. Illegal opernd.
+In line: 168	Error. Wrong operand to function.
+In line: 169	Error. Illegal opernd.
+In line: 170	Error. Wrong operand to function.
+In line: 171	Error. Wrong operand to function.
+In line: 172	Error. Illegal opernd.
+In line: 173	Error. Wrong operand to function.
+In line: 174	Error. Illegal opernd.
+In line: 175	Error. Illegal opernd.
+In line: 176	Error. Illegal opernd.
+In line: 177	Error. Illegal opernd.
+In line: 178	Error. Wrong operand to function.
+In line: 179	Error. Illegal opernd.
+In line: 180	Error. Wrong operand to function.
+In line: 181	Error. Wrong operand to function.
+In line: 182	Error. Wrong operand to function.
+In line: 183	Error. Illegal opernd.
+In line: 184	Error. Wrong operand to function.
+In line: 185	Error. Illegal opernd.
+In line: 186	Error. Wrong operand to function.
+In line: 187	Error. Illegal opernd.
+In line: 188	Error. Wrong operand to function.
+In line: 189	Error. Illegal opernd.
+In line: 190	Error. Wrong operand to function.
+In line: 191	Error. Illegal opernd.
+In line: 192	Error. Wrong operand to function.
+In line: 193	Error. Excepted only one argument.
+In line: 194	Error. Wrong operand to function.
+In line: 195	Error. Wrong operand to function.
+In line: 196	Error. Illegal opernd.
+In line: 197	Error. No operand excepted.
+In line: 198	Error. No operand excepted.
+In line: 199	Error. No operand excepted.
+In line: 200	Error. No operand excepted.
+In line: 201	Error. There is no such command
+In line: 202	Error. There is no such command
+In line: 203	Error. There is no such command
+In line: 204	Error. There is no such command
+Assembler faild.
+Finish process to errorsFromGit file.
+Thanks for using Assembler.
+Hope you enjoyed the process!

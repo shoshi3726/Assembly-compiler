@@ -1,0 +1,5 @@
+Hello. Welcome to our assembler.
+Assembler start processing with file correct_input
+Assmbler completed successfully for file correct_input.
+Thanks for using Assembler.
+Hope you enjoyed the process!

@@ -1,0 +1,12 @@
+Hello. Welcome to our assembler.
+Assembler start processing with file second_stage_errors
+In line: 9	Error. Using lable P without definition.
+In line: 9	Error. Using lable Q without definition.
+In line: 12	Error. Using lable A without definition.
+In line: 12	Error. Using lable B without definition.
+In line: 14	Error. Using lable A without definition.
+In line: 6	Error. Undefined entry lable. 
+Assembler faild.
+Finish process to second_stage_errors file.
+Thanks for using Assembler.
+Hope you enjoyed the process!

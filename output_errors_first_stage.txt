@@ -1,0 +1,48 @@
+Hello. Welcome to our assembler.
+Assembler start processing with file errors_first_stage
+In line: 2	Error. Wrong operand to function.
+In line: 3	Error. Wrong operand to function.
+In line: 4	Error. Wrong operand to function.
+In line: 5	Error. Wrong operand to function.
+In line: 6	Error. Wrong operand to function.
+In line: 7	Error. Wrong operand to function.
+In line: 8	Error. Wrong operand to function.
+In line: 9	Error. Wrong operand to function.
+In line: 10	Error. Wrong operand to function.
+In line: 11	Error. Wrong operand to function.
+In line: 12	Error. Wrong operand to function.
+In line: 13	Error. Wrong operand to function.
+In line: 14	Error. Wrong operand to function.
+In line: 17	Error. Illegal opernd.
+In line: 18	Error. Illegal opernd.
+In line: 19	Error. Illegal opernd.
+In line: 20	Error. Illegal opernd.
+In line: 21	Error. Illegal opernd.
+In line: 22	Error. Illegal opernd.
+In line: 23	Error. Illegal string.
+In line: 26	Error. Excepted only one argument.
+In line: 27	Error. Excepted only one argument.
+In line: 28	Error. Excepted only one argument.
+In line: 29	Error. Excepted only one argument.
+In line: 30	Error. Excepted only one argument.
+In line: 31	Error. Excepted only one argument.
+In line: 32	Error. Excepted only one argument.
+In line: 33	Error. Excepted only one argument.
+In line: 36	Error. There is no such command
+In line: 40	Error. Illegal number.
+In line: 41	Error. Illegal number.
+In line: 44	Error. Missing numbers.
+In line: 45	Error. Excepted arguments.
+In line: 48	Error. Extraneous comma.
+In line: 51	Error. Illegal string.
+In line: 52	Error. Excepted string.
+In line: 53	Error. Excepted string.
+In line: 57	Error. Illegal labal name.
+In line: 61	Error. Already declared in this file.
+In line: 65	Error. Already declared in this file.
+In line: 71	Error. Missing lable after extern.
+In line: 72	Error. Missing lable after entry.
+Assembler faild.
+Finish process to errors_first_stage file.
+Thanks for using Assembler.
+Hope you enjoyed the process!
